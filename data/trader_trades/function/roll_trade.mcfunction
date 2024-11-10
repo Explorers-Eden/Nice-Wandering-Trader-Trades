@@ -7,3 +7,4 @@ execute if score $select_trade eden.technical matches 4 run function trader_trad
 execute if score $select_trade eden.technical matches 5 run function trader_trades:trades/redstone_components/init
 execute if score $select_trade eden.technical matches 6 run function trader_trades:trades/treasure_book/init
 execute if score $select_trade eden.technical matches 7 run function trader_trades:trades/workbenches/init
+execute if score $select_trade eden.technical matches 8 run function trader_trades:trades/miniblocks/init

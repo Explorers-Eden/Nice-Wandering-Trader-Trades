@@ -8,3 +8,4 @@ function trader_trades:database/trades/bundles
 function trader_trades:database/trades/potions
 function trader_trades:database/trades/redstone_components
 function trader_trades:database/trades/workbenches
+function trader_trades:database/trades/miniblocks
